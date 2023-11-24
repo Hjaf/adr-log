@@ -20,3 +20,7 @@ When analysing history of a projects earlier design choices of earlier versions 
 ## Decision Outcome
 
 Chosen option: "Pure MADR template with a custom UI and automation for updating.", because Easier to integrate with architecture contracts, techonolgy lifecycle and radars etc
+
+## Links
+
+* https://adr.github.io/madr/
