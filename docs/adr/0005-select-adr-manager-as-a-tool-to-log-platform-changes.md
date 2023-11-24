@@ -1,6 +1,6 @@
 # Select ADR-manager as a tool to log platform changes
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-11-24
 
 ## Context and Problem Statement

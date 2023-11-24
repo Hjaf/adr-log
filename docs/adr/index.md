@@ -1,5 +1,7 @@
 # Architectural Decision Log
 
+## Context and Problem Statement
+
 This log lists the architectural decisions for adr-log.
 
 <!-- adrlog -- Regenerate the content by using "adr-log -i". You can install it via "npm install -g adr-log" -->
@@ -15,3 +17,7 @@ This log lists the architectural decisions for adr-log.
 For new ADRs, please use [template.md](template.md) as basis.
 More information on MADR is available at <https://adr.github.io/madr/>.
 General information about architectural decision records is available at <https://adr.github.io/>.
+
+## Decision Outcome
+
+Chosen option: ""

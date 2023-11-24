@@ -1,8 +1,12 @@
 # Use console-stamp as logging framework
 
+* Status: proposed
+
+## Context and Problem Statement
+
 The tool should provide debug logging functionality.
 
-## Considered Alternatives
+## Considered Options
 
 * [console-stamp](https://www.npmjs.com/package/console-stamp)
 * `conssole.log`
@@ -14,6 +18,4 @@ The tool should provide debug logging functionality.
 
 ## Decision Outcome
 
-* Chosen Alternative: console-stamp
-* Users can still use `console.log`, `console.info`, ...
-* console-log-level does not print log level before the log output
+Chosen option: ""
